@@ -5,12 +5,11 @@ Displays a random sentence from [clearquot.es](http://clearquot.es/) in your com
 
 ## Usage:
 
-First of all, you need to have Ruby installed to run. Then, install Multi_Json in your Terminal/Command Prompt. Use this command:
+First of all, you need to have Ruby installed to work. Then, install Multi_Json in your Terminal/Command Prompt. Use this command:
 
     sudo gem install multi_json
         
-        
-Then, execute typing this
+Run by typing this:
 
 	ruby Clear.rb
 
